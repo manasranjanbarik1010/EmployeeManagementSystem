@@ -1,9 +1,9 @@
 # Employee Management System
 
 ## Description
-This project is a simple Employee Management System that allows storing employee details and displaying them.
+This is a simple Java program to manage employee details using Object-Oriented Programming (OOP).
 
 ## How to Run
-1. Compile the Java files:
+1. Clone the repository:
    ```bash
-   javac src/Employee.java src/Main.java
+   git clone https://github.com/manasranjanbarik1010/EmployeeManagementSystem.git
